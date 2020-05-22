@@ -1,0 +1,139 @@
+ #content{
+margin-top: 20px;
+margin-bottom: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
+
+ }
+
+
+
+
+ #bemutatkozas{
+ 	margin-top: 50px;
+		float:left;
+		width:56%;
+		border-left: 10px solid: black;
+		font-size: 18px;
+		padding: 10px;
+}
+
+#eredeti{
+		
+		
+		float:right;
+		width:36%;
+		border-left: 10px solid: black;
+		font-size: 18px;
+		padding: 0px;
+
+}
+
+	
+#mugyanta{
+	margin-top: 100px;
+	padding-left: 15px;
+}
+
+#gyanta{
+	width:100%;
+	height: : 100%;
+	background-color: #8c8c8c;
+	font-size: 24px;
+	color:white;
+}
+
+#rizsa{
+	font size: : :50px;
+	color: #000099;
+	font-family: Tahoma;
+	margin-left: 25px;
+}
+
+#nav{
+	padding-top: 0px;
+	height: 60px;
+	top: 0px;
+	padding-bottom: 30px;
+	width:100%;
+	position: fixed;
+	background-color: blue;
+	height: 40px;
+	font-size: 25px;
+	font-weight: bold;
+	font:Tahoma;
+
+}
+
+
+.button{
+	 background: #e7e7e7;
+	 border: 3px solid
+	 
+	 border-radius: 3px;
+	 font:700 13px Helvetica, Arial;
+	 height: 30px;
+	 line-height: 28px;
+	 padding: 0 30px;
+	 text-align: center;
+	 margin-left: 20px;
+	 box-sizing: border-box;
+
+	 
+	 cursor: pointer;
+
+}
+
+ul{
+	padding: -25px;	;
+	list-style-type: none;
+}
+
+li{
+	display: inline;
+}
+
+a {
+	color:#667;
+	text-decoration: none;
+	float: left;
+}
+
+a:hover{
+	color:#000;
+	background-color: #dadada;
+}
+
+#footer{
+	position: fixed;
+	bottom: 0;
+	width:100%;
+	background-color: blue;
+}
+
+#fejsze{
+	position: fixed;
+	float: right;
+	margin-right: auto;
+	top: 0;
+	right: 0;
+	
+
+}
+
+body{
+	
+	background-color: white;
+	margin:0px;
+}
+
+.fooldal{
+padding-top: 100px;
+	bottom: 0;
+	right:0;
+	vertical-align: bottom;
+	align-content: center;
+
+}
+
+
